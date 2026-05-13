@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Isha Patel.</h2>
+<h2>👋 Hello! I'm Isha Patel.</h2>
 
 ---
 
