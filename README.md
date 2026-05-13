@@ -3,7 +3,7 @@
 ---
 
 - 🤖 Passionate about AI/ML and intelligent software systems.
-- 🧠 Exploring Machine learning, NLP and Agentic AI to build intelligent and data-driven applications.
+- 🧠 Exploring NLP and Agentic AI to build intelligent and data-driven applications.
 - 📫 Reach me at: ishuup1205@gmail.com
 - 🎵 My playlists switch between coding sessions and singing mode.
 
