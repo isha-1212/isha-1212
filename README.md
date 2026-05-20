@@ -4,6 +4,7 @@
 
 - 🤖 Passionate about AI/ML and intelligent software systems.
 - 🧠 Exploring NLP and Agentic AI to build intelligent and data-driven applications.
+- 👨‍💻 Checkout my portfolio: [Isha.Patel](https://my-portfolio-one-mu-78.vercel.app/)
 - 📫 Reach me at: ishuup1205@gmail.com
 - 🎵 My playlists switch between coding sessions and singing mode.
 
